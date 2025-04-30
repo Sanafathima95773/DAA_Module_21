@@ -20,7 +20,6 @@ To write a python program to find minimum steps to reach to specific cell in min
 
 ## Program:
 ```
-/*
 Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
 Developed by: Sana Fathima H
 Register Number: 212223240145
@@ -48,7 +47,8 @@ mat = [[1, 2, 3],
        [4, 6, 5],
        [3, 2, 1]]
 print(pathCountDP(mat, k))  
-*/
+
+
 ```
 
 ## Output:
