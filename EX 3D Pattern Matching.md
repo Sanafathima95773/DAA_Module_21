@@ -14,10 +14,11 @@ To write a python program to implement pattern matching on the given string usin
 
 ## Program:
 ```
-/*
 Program to implement the Pattern Matching.
+
 Developed by: Sana Fathima H
 Register Number:  212223240145
+
 def preprocess_strong_suffix(shift, bpos, pat, m):
     i = m
     j = m + 1
